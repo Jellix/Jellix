@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Jellix&show_icons=true&theme=dark)
+[Heisenbug Ltd. Repositories](https://github.com/HeisenbugLtd) (The more serious ones.)
+
+![](https://github-readme-stats.vercel.app/api?username=Jellix&show_icons=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jellix&langs_count=3&theme=dark)
--->
 
 <!--
 **Jellix/Jellix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
